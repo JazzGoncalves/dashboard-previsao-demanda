@@ -1,0 +1,211 @@
+data_previsao,produto,categoria,mes,dia_semana,preco_unitario,previsao,real,erro_absoluto
+2024-01-01,Leite Integral,Laticínios,1,Monday,4.616060191518468,78,122,44
+2024-01-01,Pão Francês,Padaria,1,Monday,0.5138030095759234,74,22,52
+2024-01-01,Banana Nanica,Hortifruti,1,Monday,3.0786730506155955,80,90,10
+2024-01-01,Coca-Cola 2L,Bebidas,1,Monday,7.693625170998632,110,90,20
+2024-01-01,Arroz 5kg,Mercearia,1,Monday,20.500136798905608,76,118,42
+2024-01-01,Feijão Carioca,Mercearia,1,Monday,8.188878248974008,73,83,10
+2024-01-01,Sabonete,Higiene,1,Monday,2.047578659370725,76,42,34
+2024-01-01,Fralda Infantil,Infantil,1,Monday,40.95129958960329,73,14,59
+2024-01-01,Queijo Mussarela,Laticínios,1,Monday,35.84072503419973,77,46,31
+2024-01-01,Cerveja Lata,Bebidas,1,Monday,3.0871819425444595,111,102,9
+2024-01-01,Iogurte Natural,Laticínios,1,Monday,2.5645964432284543,75,82,7
+2024-01-01,Manteiga 200g,Laticínios,1,Monday,6.147783857729138,77,33,44
+2024-01-01,Tomate,Hortifruti,1,Monday,4.097578659370725,78,126,48
+2024-01-01,Alface,Hortifruti,1,Monday,2.052421340629275,81,162,81
+2024-01-01,Cenoura,Hortifruti,1,Monday,3.0742954856361147,80,110,30
+2024-01-01,Detergente,Limpeza,1,Monday,2.257250341997264,70,65,5
+2024-01-01,Desinfetante,Limpeza,1,Monday,4.617647058823529,74,96,22
+2024-01-01,Shampoo,Higiene,1,Monday,10.263761969904241,76,123,47
+2024-01-01,Creme Dental,Higiene,1,Monday,3.0739124487004106,77,35,42
+2024-01-01,Papel Higiênico,Higiene,1,Monday,10.269302325581394,76,110,34
+2024-01-01,Óleo de Soja,Mercearia,1,Monday,7.185417236662107,77,62,15
+2024-01-01,Macarrão Espaguete,Mercearia,1,Monday,4.100738714090287,73,106,33
+2024-01-01,Molho de Tomate,Mercearia,1,Monday,3.0834746922024623,75,102,27
+2024-01-01,Café 500g,Mercearia,1,Monday,12.283844049247605,73,49,24
+2024-01-01,Biscoito Recheado,Mercearia,1,Monday,2.5671956224350208,72,17,55
+2024-01-01,"Água Mineral 1,5L",Bebidas,1,Monday,2.052749658002736,113,99,14
+2024-01-01,Suco de Laranja,Bebidas,1,Monday,5.122229822161422,109,93,16
+2024-01-01,Vinho Tinto,Bebidas,1,Monday,30.782257181942548,108,137,29
+2024-01-01,Frango Congelado,Carnes,1,Monday,15.320341997264022,76,84,8
+2024-01-01,Carne Moída,Carnes,1,Monday,25.645061559507525,78,63,15
+2024-01-02,Leite Integral,Laticínios,1,Tuesday,4.616060191518468,80,138,58
+2024-01-02,Pão Francês,Padaria,1,Tuesday,0.5138030095759234,71,103,32
+2024-01-02,Banana Nanica,Hortifruti,1,Tuesday,3.0786730506155955,81,104,23
+2024-01-02,Coca-Cola 2L,Bebidas,1,Tuesday,7.693625170998632,123,68,55
+2024-01-02,Arroz 5kg,Mercearia,1,Tuesday,20.500136798905608,79,109,30
+2024-01-02,Feijão Carioca,Mercearia,1,Tuesday,8.188878248974008,77,93,16
+2024-01-02,Sabonete,Higiene,1,Tuesday,2.047578659370725,76,65,11
+2024-01-02,Fralda Infantil,Infantil,1,Tuesday,40.95129958960329,75,61,14
+2024-01-02,Queijo Mussarela,Laticínios,1,Tuesday,35.84072503419973,81,42,39
+2024-01-02,Cerveja Lata,Bebidas,1,Tuesday,3.0871819425444595,123,156,33
+2024-01-02,Iogurte Natural,Laticínios,1,Tuesday,2.5645964432284543,81,50,31
+2024-01-02,Manteiga 200g,Laticínios,1,Tuesday,6.147783857729138,80,104,24
+2024-01-02,Tomate,Hortifruti,1,Tuesday,4.097578659370725,81,67,14
+2024-01-02,Alface,Hortifruti,1,Tuesday,2.052421340629275,79,43,36
+2024-01-02,Cenoura,Hortifruti,1,Tuesday,3.0742954856361147,81,57,24
+2024-01-02,Detergente,Limpeza,1,Tuesday,2.257250341997264,77,70,7
+2024-01-02,Desinfetante,Limpeza,1,Tuesday,4.617647058823529,77,105,28
+2024-01-02,Shampoo,Higiene,1,Tuesday,10.263761969904241,80,22,58
+2024-01-02,Creme Dental,Higiene,1,Tuesday,3.0739124487004106,80,61,19
+2024-01-02,Papel Higiênico,Higiene,1,Tuesday,10.269302325581394,80,62,18
+2024-01-02,Óleo de Soja,Mercearia,1,Tuesday,7.185417236662107,80,95,15
+2024-01-02,Macarrão Espaguete,Mercearia,1,Tuesday,4.100738714090287,76,62,14
+2024-01-02,Molho de Tomate,Mercearia,1,Tuesday,3.0834746922024623,78,115,37
+2024-01-02,Café 500g,Mercearia,1,Tuesday,12.283844049247605,76,70,6
+2024-01-02,Biscoito Recheado,Mercearia,1,Tuesday,2.5671956224350208,77,126,49
+2024-01-02,"Água Mineral 1,5L",Bebidas,1,Tuesday,2.052749658002736,121,60,61
+2024-01-02,Suco de Laranja,Bebidas,1,Tuesday,5.122229822161422,124,144,20
+2024-01-02,Vinho Tinto,Bebidas,1,Tuesday,30.782257181942548,123,104,19
+2024-01-02,Frango Congelado,Carnes,1,Tuesday,15.320341997264022,79,62,17
+2024-01-02,Carne Moída,Carnes,1,Tuesday,25.645061559507525,81,33,48
+2024-01-03,Leite Integral,Laticínios,1,Wednesday,4.616060191518468,86,31,55
+2024-01-03,Pão Francês,Padaria,1,Wednesday,0.5138030095759234,89,114,25
+2024-01-03,Banana Nanica,Hortifruti,1,Wednesday,3.0786730506155955,87,141,54
+2024-01-03,Coca-Cola 2L,Bebidas,1,Wednesday,7.693625170998632,128,177,49
+2024-01-03,Arroz 5kg,Mercearia,1,Wednesday,20.500136798905608,84,38,46
+2024-01-03,Feijão Carioca,Mercearia,1,Wednesday,8.188878248974008,82,127,45
+2024-01-03,Sabonete,Higiene,1,Wednesday,2.047578659370725,85,24,61
+2024-01-03,Fralda Infantil,Infantil,1,Wednesday,40.95129958960329,81,104,23
+2024-01-03,Queijo Mussarela,Laticínios,1,Wednesday,35.84072503419973,87,125,38
+2024-01-03,Cerveja Lata,Bebidas,1,Wednesday,3.0871819425444595,128,128,0
+2024-01-03,Iogurte Natural,Laticínios,1,Wednesday,2.5645964432284543,86,137,51
+2024-01-03,Manteiga 200g,Laticínios,1,Wednesday,6.147783857729138,86,32,54
+2024-01-03,Tomate,Hortifruti,1,Wednesday,4.097578659370725,87,60,27
+2024-01-03,Alface,Hortifruti,1,Wednesday,2.052421340629275,89,128,39
+2024-01-03,Cenoura,Hortifruti,1,Wednesday,3.0742954856361147,87,74,13
+2024-01-03,Detergente,Limpeza,1,Wednesday,2.257250341997264,83,107,24
+2024-01-03,Desinfetante,Limpeza,1,Wednesday,4.617647058823529,82,42,40
+2024-01-03,Shampoo,Higiene,1,Wednesday,10.263761969904241,85,96,11
+2024-01-03,Creme Dental,Higiene,1,Wednesday,3.0739124487004106,85,127,42
+2024-01-03,Papel Higiênico,Higiene,1,Wednesday,10.269302325581394,85,53,32
+2024-01-03,Óleo de Soja,Mercearia,1,Wednesday,7.185417236662107,82,71,11
+2024-01-03,Macarrão Espaguete,Mercearia,1,Wednesday,4.100738714090287,82,100,18
+2024-01-03,Molho de Tomate,Mercearia,1,Wednesday,3.0834746922024623,84,100,16
+2024-01-03,Café 500g,Mercearia,1,Wednesday,12.283844049247605,82,65,17
+2024-01-03,Biscoito Recheado,Mercearia,1,Wednesday,2.5671956224350208,83,126,43
+2024-01-03,"Água Mineral 1,5L",Bebidas,1,Wednesday,2.052749658002736,126,36,90
+2024-01-03,Suco de Laranja,Bebidas,1,Wednesday,5.122229822161422,128,160,32
+2024-01-03,Vinho Tinto,Bebidas,1,Wednesday,30.782257181942548,127,135,8
+2024-01-03,Frango Congelado,Carnes,1,Wednesday,15.320341997264022,85,73,12
+2024-01-03,Carne Moída,Carnes,1,Wednesday,25.645061559507525,86,84,2
+2024-01-04,Leite Integral,Laticínios,1,Thursday,4.616060191518468,93,124,31
+2024-01-04,Pão Francês,Padaria,1,Thursday,0.5138030095759234,85,153,68
+2024-01-04,Banana Nanica,Hortifruti,1,Thursday,3.0786730506155955,95,42,53
+2024-01-04,Coca-Cola 2L,Bebidas,1,Thursday,7.693625170998632,138,175,37
+2024-01-04,Arroz 5kg,Mercearia,1,Thursday,20.500136798905608,93,55,38
+2024-01-04,Feijão Carioca,Mercearia,1,Thursday,8.188878248974008,90,68,22
+2024-01-04,Sabonete,Higiene,1,Thursday,2.047578659370725,91,39,52
+2024-01-04,Fralda Infantil,Infantil,1,Thursday,40.95129958960329,89,109,20
+2024-01-04,Queijo Mussarela,Laticínios,1,Thursday,35.84072503419973,94,77,17
+2024-01-04,Cerveja Lata,Bebidas,1,Thursday,3.0871819425444595,138,247,109
+2024-01-04,Iogurte Natural,Laticínios,1,Thursday,2.5645964432284543,93,54,39
+2024-01-04,Manteiga 200g,Laticínios,1,Thursday,6.147783857729138,93,91,2
+2024-01-04,Tomate,Hortifruti,1,Thursday,4.097578659370725,93,74,19
+2024-01-04,Alface,Hortifruti,1,Thursday,2.052421340629275,95,112,17
+2024-01-04,Cenoura,Hortifruti,1,Thursday,3.0742954856361147,95,84,11
+2024-01-04,Detergente,Limpeza,1,Thursday,2.257250341997264,88,57,31
+2024-01-04,Desinfetante,Limpeza,1,Thursday,4.617647058823529,89,93,4
+2024-01-04,Shampoo,Higiene,1,Thursday,10.263761969904241,93,110,17
+2024-01-04,Creme Dental,Higiene,1,Thursday,3.0739124487004106,92,92,0
+2024-01-04,Papel Higiênico,Higiene,1,Thursday,10.269302325581394,93,25,68
+2024-01-04,Óleo de Soja,Mercearia,1,Thursday,7.185417236662107,94,37,57
+2024-01-04,Macarrão Espaguete,Mercearia,1,Thursday,4.100738714090287,88,42,46
+2024-01-04,Molho de Tomate,Mercearia,1,Thursday,3.0834746922024623,91,46,45
+2024-01-04,Café 500g,Mercearia,1,Thursday,12.283844049247605,90,130,40
+2024-01-04,Biscoito Recheado,Mercearia,1,Thursday,2.5671956224350208,90,62,28
+2024-01-04,"Água Mineral 1,5L",Bebidas,1,Thursday,2.052749658002736,139,160,21
+2024-01-04,Suco de Laranja,Bebidas,1,Thursday,5.122229822161422,137,132,5
+2024-01-04,Vinho Tinto,Bebidas,1,Thursday,30.782257181942548,137,60,77
+2024-01-04,Frango Congelado,Carnes,1,Thursday,15.320341997264022,92,97,5
+2024-01-04,Carne Moída,Carnes,1,Thursday,25.645061559507525,95,112,17
+2024-01-05,Leite Integral,Laticínios,1,Friday,4.616060191518468,105,121,16
+2024-01-05,Pão Francês,Padaria,1,Friday,0.5138030095759234,100,134,34
+2024-01-05,Banana Nanica,Hortifruti,1,Friday,3.0786730506155955,107,46,61
+2024-01-05,Coca-Cola 2L,Bebidas,1,Friday,7.693625170998632,138,78,60
+2024-01-05,Arroz 5kg,Mercearia,1,Friday,20.500136798905608,102,94,8
+2024-01-05,Feijão Carioca,Mercearia,1,Friday,8.188878248974008,99,61,38
+2024-01-05,Sabonete,Higiene,1,Friday,2.047578659370725,103,112,9
+2024-01-05,Fralda Infantil,Infantil,1,Friday,40.95129958960329,99,170,71
+2024-01-05,Queijo Mussarela,Laticínios,1,Friday,35.84072503419973,103,78,25
+2024-01-05,Cerveja Lata,Bebidas,1,Friday,3.0871819425444595,138,43,95
+2024-01-05,Iogurte Natural,Laticínios,1,Friday,2.5645964432284543,101,179,78
+2024-01-05,Manteiga 200g,Laticínios,1,Friday,6.147783857729138,104,197,93
+2024-01-05,Tomate,Hortifruti,1,Friday,4.097578659370725,107,48,59
+2024-01-05,Alface,Hortifruti,1,Friday,2.052421340629275,108,139,31
+2024-01-05,Cenoura,Hortifruti,1,Friday,3.0742954856361147,106,133,27
+2024-01-05,Detergente,Limpeza,1,Friday,2.257250341997264,96,107,11
+2024-01-05,Desinfetante,Limpeza,1,Friday,4.617647058823529,100,106,6
+2024-01-05,Shampoo,Higiene,1,Friday,10.263761969904241,102,18,84
+2024-01-05,Creme Dental,Higiene,1,Friday,3.0739124487004106,103,64,39
+2024-01-05,Papel Higiênico,Higiene,1,Friday,10.269302325581394,102,23,79
+2024-01-05,Óleo de Soja,Mercearia,1,Friday,7.185417236662107,105,78,27
+2024-01-05,Macarrão Espaguete,Mercearia,1,Friday,4.100738714090287,99,144,45
+2024-01-05,Molho de Tomate,Mercearia,1,Friday,3.0834746922024623,101,180,79
+2024-01-05,Café 500g,Mercearia,1,Friday,12.283844049247605,100,194,94
+2024-01-05,Biscoito Recheado,Mercearia,1,Friday,2.5671956224350208,98,80,18
+2024-01-05,"Água Mineral 1,5L",Bebidas,1,Friday,2.052749658002736,143,118,25
+2024-01-05,Suco de Laranja,Bebidas,1,Friday,5.122229822161422,137,66,71
+2024-01-05,Vinho Tinto,Bebidas,1,Friday,30.782257181942548,138,179,41
+2024-01-05,Frango Congelado,Carnes,1,Friday,15.320341997264022,102,139,37
+2024-01-05,Carne Moída,Carnes,1,Friday,25.645061559507525,104,146,42
+2024-01-06,Leite Integral,Laticínios,1,Saturday,4.616060191518468,125,120,5
+2024-01-06,Pão Francês,Padaria,1,Saturday,0.5138030095759234,133,38,95
+2024-01-06,Banana Nanica,Hortifruti,1,Saturday,3.0786730506155955,126,120,6
+2024-01-06,Coca-Cola 2L,Bebidas,1,Saturday,7.693625170998632,157,182,25
+2024-01-06,Arroz 5kg,Mercearia,1,Saturday,20.500136798905608,118,35,83
+2024-01-06,Feijão Carioca,Mercearia,1,Saturday,8.188878248974008,116,193,77
+2024-01-06,Sabonete,Higiene,1,Saturday,2.047578659370725,125,42,83
+2024-01-06,Fralda Infantil,Infantil,1,Saturday,40.95129958960329,117,115,2
+2024-01-06,Queijo Mussarela,Laticínios,1,Saturday,35.84072503419973,120,203,83
+2024-01-06,Cerveja Lata,Bebidas,1,Saturday,3.0871819425444595,161,84,77
+2024-01-06,Iogurte Natural,Laticínios,1,Saturday,2.5645964432284543,125,147,22
+2024-01-06,Manteiga 200g,Laticínios,1,Saturday,6.147783857729138,121,70,51
+2024-01-06,Tomate,Hortifruti,1,Saturday,4.097578659370725,125,63,62
+2024-01-06,Alface,Hortifruti,1,Saturday,2.052421340629275,128,162,34
+2024-01-06,Cenoura,Hortifruti,1,Saturday,3.0742954856361147,127,139,12
+2024-01-06,Detergente,Limpeza,1,Saturday,2.257250341997264,120,224,104
+2024-01-06,Desinfetante,Limpeza,1,Saturday,4.617647058823529,121,172,51
+2024-01-06,Shampoo,Higiene,1,Saturday,10.263761969904241,120,62,58
+2024-01-06,Creme Dental,Higiene,1,Saturday,3.0739124487004106,125,70,55
+2024-01-06,Papel Higiênico,Higiene,1,Saturday,10.269302325581394,120,127,7
+2024-01-06,Óleo de Soja,Mercearia,1,Saturday,7.185417236662107,121,55,66
+2024-01-06,Macarrão Espaguete,Mercearia,1,Saturday,4.100738714090287,120,98,22
+2024-01-06,Molho de Tomate,Mercearia,1,Saturday,3.0834746922024623,122,181,59
+2024-01-06,Café 500g,Mercearia,1,Saturday,12.283844049247605,116,29,87
+2024-01-06,Biscoito Recheado,Mercearia,1,Saturday,2.5671956224350208,121,160,39
+2024-01-06,"Água Mineral 1,5L",Bebidas,1,Saturday,2.052749658002736,164,213,49
+2024-01-06,Suco de Laranja,Bebidas,1,Saturday,5.122229822161422,159,146,13
+2024-01-06,Vinho Tinto,Bebidas,1,Saturday,30.782257181942548,154,273,119
+2024-01-06,Frango Congelado,Carnes,1,Saturday,15.320341997264022,119,179,60
+2024-01-06,Carne Moída,Carnes,1,Saturday,25.645061559507525,121,125,4
+2024-01-07,Leite Integral,Laticínios,1,Sunday,4.616060191518468,117,179,62
+2024-01-07,Pão Francês,Padaria,1,Sunday,0.5138030095759234,125,42,83
+2024-01-07,Banana Nanica,Hortifruti,1,Sunday,3.0786730506155955,118,174,56
+2024-01-07,Coca-Cola 2L,Bebidas,1,Sunday,7.693625170998632,152,87,65
+2024-01-07,Arroz 5kg,Mercearia,1,Sunday,20.500136798905608,113,72,41
+2024-01-07,Feijão Carioca,Mercearia,1,Sunday,8.188878248974008,111,43,68
+2024-01-07,Sabonete,Higiene,1,Sunday,2.047578659370725,117,51,66
+2024-01-07,Fralda Infantil,Infantil,1,Sunday,40.95129958960329,112,144,32
+2024-01-07,Queijo Mussarela,Laticínios,1,Sunday,35.84072503419973,116,104,12
+2024-01-07,Cerveja Lata,Bebidas,1,Sunday,3.0871819425444595,153,103,50
+2024-01-07,Iogurte Natural,Laticínios,1,Sunday,2.5645964432284543,117,187,70
+2024-01-07,Manteiga 200g,Laticínios,1,Sunday,6.147783857729138,116,83,33
+2024-01-07,Tomate,Hortifruti,1,Sunday,4.097578659370725,117,233,116
+2024-01-07,Alface,Hortifruti,1,Sunday,2.052421340629275,120,38,82
+2024-01-07,Cenoura,Hortifruti,1,Sunday,3.0742954856361147,119,68,51
+2024-01-07,Detergente,Limpeza,1,Sunday,2.257250341997264,112,209,97
+2024-01-07,Desinfetante,Limpeza,1,Sunday,4.617647058823529,113,82,31
+2024-01-07,Shampoo,Higiene,1,Sunday,10.263761969904241,115,56,59
+2024-01-07,Creme Dental,Higiene,1,Sunday,3.0739124487004106,116,144,28
+2024-01-07,Papel Higiênico,Higiene,1,Sunday,10.269302325581394,115,17,98
+2024-01-07,Óleo de Soja,Mercearia,1,Sunday,7.185417236662107,115,144,29
+2024-01-07,Macarrão Espaguete,Mercearia,1,Sunday,4.100738714090287,112,131,19
+2024-01-07,Molho de Tomate,Mercearia,1,Sunday,3.0834746922024623,114,90,24
+2024-01-07,Café 500g,Mercearia,1,Sunday,12.283844049247605,111,58,53
+2024-01-07,Biscoito Recheado,Mercearia,1,Sunday,2.5671956224350208,113,73,40
+2024-01-07,"Água Mineral 1,5L",Bebidas,1,Sunday,2.052749658002736,156,151,5
+2024-01-07,Suco de Laranja,Bebidas,1,Sunday,5.122229822161422,151,216,65
+2024-01-07,Vinho Tinto,Bebidas,1,Sunday,30.782257181942548,150,263,113
+2024-01-07,Frango Congelado,Carnes,1,Sunday,15.320341997264022,114,116,2
+2024-01-07,Carne Moída,Carnes,1,Sunday,25.645061559507525,117,90,27

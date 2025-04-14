@@ -1,0 +1,16 @@
+# Ignorar arquivos CSV
+*.csv
+
+
+# Ignorar arquivos gerados automaticamente
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente
+.env
+
+# Arquivos temporários
+*.log
+.DS_Store
+
+
